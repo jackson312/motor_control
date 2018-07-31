@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jackson/MOTOR_MONITOR/Motor_Monitor.hpp
+cstdint
+-
+string
+-
+fstream
+-
+
+/home/jackson/MOTOR_MONITOR/main.cpp
+iostream
+-
+cstdint
+-
+Motor_Monitor.hpp
+/home/jackson/MOTOR_MONITOR/Motor_Monitor.hpp
+

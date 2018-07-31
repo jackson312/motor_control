@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MOTOR_MONITOR.dir/main.cpp.o CMakeFiles/MOTOR_MONITOR.dir/Motor_Monitor.cpp.o  -o MOTOR_MONITOR 
